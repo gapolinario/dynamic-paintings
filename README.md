@@ -1,6 +1,6 @@
 The files in this repository were used to generate animations from some classic paintings, according to some rules. The code is written as Mathematica notebooks and the final animation was produced with image magick.
 
-The Mathematica notebooks have several sections with different numerical methods for differential equations (HeatAnimation.nb) and cellular automata (AutomatonOverPainting.nb).
+The Mathematica notebooks have several sections with different numerical methods for differential equations (HeatAnimation.nb), cellular automata (AutomatonOverPainting.nb) and another for the convection-diffusion equation (TransportAnimation.nb)
 
 # How To
 
